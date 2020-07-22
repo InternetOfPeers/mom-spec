@@ -24,8 +24,7 @@ See [ERCXXX](#) (_it will be submitted soon_).
 | ENDORSE & REPLY | 06 | multihash, multihash | Endorse a message and reply to it. The first parameter is the message to reply to. The second parameter is the multihash of the message
 | DISAPPROVE & REPLY | 07 | multihash, multihash | Disapprove a message and reply to it. The first parameter is the message to reply to. The second parameter is the multihash of the message
 | CLOSE ACCOUNT | FD | multihash | "Close the account" or "Never consider valid any other MOM messages sent by this account from now on.". This is  useful when you want to change account, especially when the private key is compromised - or you think it is. The multihash parameter is an optional file with motivations |
-| CUSTOM | FE	   | any | Custom MOM specifications
-| RAW | FF	   | any | Raw content, no need to disclose the meaning. General client can ignore it.
+| RAW | FF	   | any | Raw content, at least 1 byte, no need to disclose the meaning. It can be used for _blind_ notarization. General client can ignore it.
 
 ## Project's rationales (work in progress)
 
