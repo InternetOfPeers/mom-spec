@@ -1,4 +1,4 @@
-# MOM v1 Specification
+# MOM v1 Specification ([EIP-2848](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2848.md))
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the EIP.-->
