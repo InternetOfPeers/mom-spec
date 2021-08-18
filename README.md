@@ -1,14 +1,15 @@
 # MOM v1 Specification ([EIP-2848](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2848.md))
 
+To ge more insights, you can test a [live client](http://internetofpeers.org/mom-client/), watch a [full video overview and demo](https://www.youtube.com/watch?v=z1SnoQkQYkU) and read a [brief presentation](EIP-2848.pdf).
+
 ## Simple Summary
 
 My Own Messages (MOM) is a standard to create your very own public, always updated, unstoppable, verifiable, message board.
 
-You can test a [live client](http://internetofpeers.org/mom-client/), watch a [full video overview and demo](https://www.youtube.com/watch?v=z1SnoQkQYkU) and read a [brief presentation](EIP-2848.pdf).
-
 ## Abstract
 
 My Own Messages (MOM) use Ethereum as a certification layer for commands and multihash of your messages. It don't use smart contracts but simple self-send transactions with specific payload attached.
+
 
 ## Motivation
 
