@@ -4,8 +4,7 @@
 
 My Own Messages (MOM) is a standard to create your very own public, always updated, unstoppable, verifiable, message board.
 
-- Here a [full overview and demo](https://www.youtube.com/watch?v=z1SnoQkQYkU)
-- Here a [brief presentation](EIP-2848.pdf)
+You can test a [live client](http://internetofpeers.org/mom-client/), watch a [full video overview and demo](https://www.youtube.com/watch?v=z1SnoQkQYkU) and read a [brief presentation](EIP-2848.pdf).
 
 ## Abstract
 
